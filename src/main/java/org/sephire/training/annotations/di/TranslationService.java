@@ -6,6 +6,6 @@ import java.util.Locale;
 public class TranslationService {
 
   public String translate(String word, Locale locale) {
-    return "Gutentag";
+    return "Guten tag";
   }
 }
